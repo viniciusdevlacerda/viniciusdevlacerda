@@ -1,9 +1,19 @@
 ## Hello, I'm Vinicius Lacerda 👋
 ### Welcome to my Github profile.
 
-- 🔭 I’m currently working how to Software Engineer
-- 🌱 I’m currently learning: Node.js, TypeScript, React
+🔭 I'm part of the Assessments Team at <a href="https://www.grancursosonline.com.br/" target="_blank"> Gran Cursos Online <img align="center" loading="lazy" alt="vinicius-vacerda-php" src="https://cloudfront.grancursosonline.com.br/assets/site/img/ico/g-apple-icon-57x57.png" width="20" height="20"/>   
+</a>
+📚 I’m currently learning: Node.js, TypeScript, React <br>
   
+I have been working in development for 6 years. Since then, I have developed projects aimed at different segments, such as education, e-commerce, ERPs and marketing.
+I am more familiar with projects focused on education, but I also have experience with projects focused on sales and marketing.
+I learn a lot from every job, but I can say that my favorite projects are:<br>
+
+- Converse (https://converse.com.br)<br>
+- In Mais Prêmios (https://inmaispremios.com.br)<br>
+- SIMEC (https://simec.mec.gov.br)<br>
+- Questões (https://questoes.grancursosonline.com.br)<br>
+
 <div style="display: inline_block" align="center"><br>
 <img align="center" loading="lazy" alt="vinicius-vacerda-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>     
 <img align="center" loading="lazy" alt="vinicius-vacerda-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"  height="30" />    
